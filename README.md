@@ -1,1 +1,3 @@
 Password_generator
+
+password_generator_project/manage.py
